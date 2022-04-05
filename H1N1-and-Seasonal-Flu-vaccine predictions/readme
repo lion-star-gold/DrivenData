@@ -1,3 +1,5 @@
 The first submission scored 0.8185, placing me 944 of 3650 at time of publishing. Logistic Regression was used.
 The second submission scored 0.8069, after I read that random forest classification may be a good method.
 The third submission scored 0.8086 after depth = 500 was chosen. The program took a long time to complete. Also uses random forest classification, a marginal increase.
+The fourth submission, using KNN n = 15, scored 0.7892.
+The fifth submussion, using KNN n = 17, scored 0.6683 strangely.
